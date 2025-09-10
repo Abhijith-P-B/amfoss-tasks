@@ -10,7 +10,7 @@ def retrieve_categories():
     try:
         r= requests.get(CATEGORY_URL)
         return r.json().get("trivia_categories", [])
-    except requests.exceptions.RequestException:
+    except requests.exceptions.RequestException:                         
         print("Some error occured")
         return []
 
@@ -37,7 +37,7 @@ def sel_category(cat):
     print("\nSelect category:")
     i = 1
     for j in cat:
-        print(str(i)+". "+j["name"])
+        print(str(i)+". "+j["name"])      
         i = i + 1
 
     choice = input("Enter category number (press enter for selecting random category): ")
@@ -165,7 +165,6 @@ def main():
         print("Questions not retrieved")
         return
 
-    # ask questions
     score = 0
     for q in questions:
         if question_related(q):
