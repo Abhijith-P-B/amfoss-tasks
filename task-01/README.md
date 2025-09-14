@@ -66,7 +66,6 @@ final Task completion screen.
 
 #### The name of the file was gravity_singularity.sh instead of gravity.sh and no password was asked while opening that file.
 
+## FINAL IMAGE:
 
-<<<<<<< HEAD
-=======
 ![preview](task1.png)
