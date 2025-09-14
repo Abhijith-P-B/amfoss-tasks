@@ -1,4 +1,4 @@
-#Task-02 ( The Cyberpunk Syndicate )
+# Task-02 ( The Cyberpunk Syndicate )
 
 $ Completed all 6 problems in HackerRank.
 
