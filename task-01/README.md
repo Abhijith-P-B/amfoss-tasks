@@ -65,3 +65,6 @@ $ Made it executable using (chmod +x gravity_singularity.sh ) and executed it us
 final Task completion screen.
 
 ###The name of the file was gravity_singularity.sh instead of gravity.sh and no password was asked while opening that file
+
+##PREVIEW:
+![preview][task1 final.png]
