@@ -68,4 +68,4 @@ final Task completion screen.
 
 ## PREVIEW:
 
-![preview][task1 final.png]
+![preview](task1 final.png)
