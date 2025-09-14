@@ -64,4 +64,6 @@ $ Gargantua/the_centre/.the_singularity had the bash file "gravity_singularity.s
 $ Made it executable using (chmod +x gravity_singularity.sh ) and executed it using (./gravity_singularity.sh ) to get the
 final Task completion screen.
 
-###The name of the file was gravity_singularity.sh instead of gravity.sh and no password was asked while opening that file.
+#### The name of the file was gravity_singularity.sh instead of gravity.sh and no password was asked while opening that file.
+
+
