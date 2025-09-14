@@ -3,28 +3,28 @@
 ## STEP -I
 Created the file "import_csv.py" which can:
 
-$ Create a table named "MovieRecords" in the DataBase:"CineScope".
+~ Create a table named "MovieRecords" in the DataBase:"CineScope".
 
-$ Open "movies.csv" and read line by line.
+~ Open "movies.csv" and read line by line.
 
-$ Add records into the table "MovieRecords".
+~ Add records into the table "MovieRecords".
 
 ## STEP - II
-$ The "dashboard.py" was modified to make it work.
+~ The "dashboard.py" was modified to make it work.
 
-$ It was connected to MySQL DataBase by using mysql.connector.
+~ It was connected to MySQL DataBase by using mysql.connector.
 
-$ The search by part is single selection, that is the user could select only one button and once selected the button
+~ The search by part is single selection, that is the user could select only one button and once selected the button
   turns yellow.
 
-$ The select column part is multiple choice selction, where all the selected buttons turn yellow.
+~ The select column part is multiple choice selction, where all the selected buttons turn yellow.
 
-$ According to the search by and columns selected, custom queries will be used to print the records accordingly.
+~ According to the search by and columns selected, custom queries will be used to print the records accordingly.
 
 ## STEP - III
-$ The "Export CSV" button exports the current printed records along with the heading row to "exported_movies.csv"
+~ The "Export CSV" button exports the current printed records along with the heading row to "exported_movies.csv"
 
-$ Whenever the records was exported, the "exported_movies.csv" is overwritten.
+~ Whenever the records was exported, the "exported_movies.csv" is overwritten.
 
 # STEPS TO USE IT IN YOUR SYSTEM :
 1. Clone the repository to your system and navigate to it by using:
@@ -37,7 +37,7 @@ cd amfoss_praveshan/task-04
 
 2. Create a virtual environment and install the required packages listed in file requirements.txt using:
 ```bash
-python3 -m venv venv
+python3 -m venv pappu
 ```
 ```bash
 source venv/bin/activate

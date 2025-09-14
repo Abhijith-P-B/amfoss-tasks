@@ -172,7 +172,6 @@ def main():
 
     print("\nYour final score: " + str(score) + "/" + str(len(questions)))
     sys.exit(0)
-
-
-if __name__ == "__main__":
+    
+if __name__== "__main__":
     main()
