@@ -23,3 +23,30 @@ To keep improving, I plan to take on challenges such as joining hackathons (whic
 upcoming SIH)solving plenty of problems from platforms such as Codechef,Codeforce and actively contribute to open source
 projects to improve my coding skills and logical thinking.I strongly believe that experience is the best way to learn, 
 and I’m excited to keep pushing myself in these areas.
+
+
+#	MAIN TASK STATUS
+ 
+| Task    | Description                                     | Status |
+| ------- | ----------------------------------------------- | ------ |
+| Task-00 | [Install Linux](./task-00/)                     | ✅      |
+| Task-01 | [Terminal-Hunt](./task-01/)                     | ✅      |
+| Task-02 | [The Cyberpunk Syndicate](./task-02/)           | ✅      |
+| Task-03 | [The Circularity Challenge](./task-03/)         | ❌      |
+| Task-04 | [CineScope](./task-04/)                         | ✅      |
+| Task-05 | [TimeTickQuiz CLI](./task-05/)                  | ✅      |
+| Task-06 | [LyricLounge Discord bot](./task-06/)           | ❌      |
+| Task-07 | [WordRush Mobile app](./task-07/)               | ❌      |
+| Task-08 | [OpenCV Treasure Map](./task-08/)               | ❌      |
+| Task-09 | [SysForge challenge](./task-09/)                | ❌      |
+| Task-10 | [BattleCraft: Daily CSS Challenges](./task-10/) | ✅      |
+
+#	ADDITIONAL TASK STATUS
+
+| Task    | Description                                      | Status |
+| ------- | ------------------------------------------------ | ------ |
+| Task-11 | [OverTheWire Bandit](./additional-tasks/task-11) | ✅      |
+| Task-12 | [Hello, World!](./additional-tasks/task-12)      | ❌      |
+| Task-13 | [Lessgo Hugo](./additional-tasks/task-13)        | ❌      |
+| Task-14 | [Sand Simulation](./additional-tasks/task-14)    | ❌      |
+
