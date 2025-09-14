@@ -11,7 +11,7 @@ You’ve uncovered the first piece of the puzzle — well done, explorer.
 The string: T25lIGxhc3QgdGFzaywgYW5kIHlvdSdsbCBoYXZlIHN1Y2Nlc3NmdWxseSBjb21
 
 Its meaning holds power... and danger.
-Now that the facility has fulfilled its purpose, it's time to cover your tracks, erase it.  
+Now that the facility has fulfilled its purpose, it's time to cover your tracks, erase it.
 Wipe it from existence so no one — and nothing — can trace your path.
 The future depends on secrecy.
 
@@ -67,3 +67,6 @@ final Task completion screen.
 #### The name of the file was gravity_singularity.sh instead of gravity.sh and no password was asked while opening that file.
 
 
+<<<<<<< HEAD
+=======
+![preview](task1.png)
